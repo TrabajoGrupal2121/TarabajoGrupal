@@ -1,3 +1,3 @@
 "Mi Proyecto1" 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
-"Modificaci¢n en la rama principal." 
+"AÂ¤adiendo contenido en la rama nueva-funcionalidad." ... 
+"Editamos el contenido del readme en la rama gianfranco"
